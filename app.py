@@ -12,7 +12,7 @@ import gdown
 # If you run Streamlit locally and the model is in the same directory:
 # MODEL_PATH = "alzheimer.h5"
 # Or if you use the gdown method (replace with your file's ID):
-MODEL_ID = "1RUlD1Q5VfWbFfPmeKp7zkyJoDSjhDs4Z"  # 🔴🔴 REPLACE THIS ID 🔴🔴
+MODEL_ID = "1HHegBF8GNpA-FcnDYdD4HZBvSBs1-P5J"  # 🔴🔴 REPLACE THIS ID 🔴🔴
 MODEL_PATH = "alzheimer_model.h5"
 
 # 2. Image Size: Used for resizing input images.
