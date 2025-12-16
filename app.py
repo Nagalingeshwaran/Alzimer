@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing import image
 import os
 
 # ================= CONFIG =================
-MODEL_PATH = "1HHegBF8GNpA-FcnDYdD4HZBvSBs1-P5J"   # <-- your .h5 file name
+MODEL_PATH = "1HHegBF8GNpA-FcnDYdD4HZBvSBs1"   # <-- your .h5 file name
 IMG_SIZE = 224
 
 CLASS_NAMES = [
