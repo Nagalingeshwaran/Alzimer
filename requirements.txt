@@ -1,5 +1,14 @@
+# requirements.txt
+
+# Core Streamlit library for the web app
 streamlit
-tensorflow-cpu==2.15.0
+
+# Library to load the .pkl model file
+joblib
+
+# Common ML/Data libraries
+pandas
 numpy
-pillow
-gdown
+
+# Scikit-learn, required if your model object needs it to run
+scikit-learn
